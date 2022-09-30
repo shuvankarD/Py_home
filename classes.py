@@ -16,5 +16,5 @@ class party:
 
     def myfunc(self):
       print("my name is"+ self.name)
-obj = party("kui",90)
+obj = party("kui",100)
 obj.myfunc()
